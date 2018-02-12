@@ -18,7 +18,9 @@ func main() {
 		{2, 3},
 		{4, 5},
 	}
+	array4 := make([]int, 5) //Array inicialized with size 5 and 0 for all values.
 	fmt.Println(array1)
 	fmt.Println(array2)
 	fmt.Println(array3)
+	fmt.Println(array4)
 }
