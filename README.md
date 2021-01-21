@@ -1,3 +1,3 @@
 # Exercícios GOLang
 
-Exercícios praticados com a linguagem de programação GoLang
+Exercícios praticados com a linguagem de programação GOLang.
